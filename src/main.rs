@@ -7,7 +7,7 @@ use animal::{AnimalDAO, Animal, convert_animals_to_types, sort_by_color, sort_by
 /// format of input file: [{"type": "dog", "weight": 17, "color": "white"}, {"type": "cat", "weight: 30, "color": "black"}]
 /// example of output: ["Dog": {"weight": 17, "color": "white"}, "Cat": {"weight": 30, "color": "black"}]
 #[derive(StructOpt)]
-#[structopt(name = "Sort Animals")]
+#[structopt(name = "🐶 Sort Animals 🗃 🙈")]
 struct Cli {
     /// sort by color
     #[structopt(short, long)]
