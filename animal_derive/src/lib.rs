@@ -16,7 +16,7 @@ use syn::{parse_macro_input, DeriveInput};
 #[proc_macro_derive(Animal)]
 pub fn animal_derive(input: TokenStream) -> TokenStream {
     // Construct a representation of Rust code as a syntax tree
-    // that we can manipulat
+    // that we can manipulate
     let ast = parse_macro_input!(input as DeriveInput);
 
     // get the identifier of the code input

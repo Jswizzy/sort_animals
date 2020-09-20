@@ -1,5 +1,5 @@
+use animal::{convert_animals_to_types, sort_by_color, sort_by_weight, Animal, AnimalDAO};
 use structopt::StructOpt;
-use animal::{AnimalDAO, Animal, convert_animals_to_types, sort_by_color, sort_by_weight};
 
 // Struct Opts here handles CLI argument parsing and messages
 /// Given a JSON file of animals parse it into a heterogeneous array
@@ -25,7 +25,6 @@ struct Cli {
     #[structopt(parse(from_os_str))]
     path: std::path::PathBuf,
 }
-
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args = Cli::from_args();
