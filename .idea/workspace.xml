@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/animal_kind_derive/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/animal_kind/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3af09420-8181-4a3b-a8f1-19e5332bfee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sort_animals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-7a72f14baaee90e7/dep-lib-animal_kind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-7a72f14baaee90e7/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-7a72f14baaee90e7/lib-animal_kind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-7a72f14baaee90e7/lib-animal_kind.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-7a72f14baaee90e7/output-lib-animal_kind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-c583178aebdeb18d/dep-test-lib-animal_kind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-c583178aebdeb18d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-c583178aebdeb18d/output-test-lib-animal_kind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-c583178aebdeb18d/test-lib-animal_kind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/.fingerprint/animal_kind-c583178aebdeb18d/test-lib-animal_kind.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/deps/animal_kind-7a72f14baaee90e7.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/deps/animal_kind-c583178aebdeb18d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/deps/animal_kind-c583178aebdeb18d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/deps/libanimal_kind-7a72f14baaee90e7.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/deps/libanimal_kind-7a72f14baaee90e7.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-1dw8otm5xpmwl/s-frcnnfc8zi-17skpmg-3c8yfdvesnalg/3ezk4tqy3mvqqpra.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-1dw8otm5xpmwl/s-frcnnfc8zi-17skpmg-3c8yfdvesnalg/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-1dw8otm5xpmwl/s-frcnnfc8zi-17skpmg-3c8yfdvesnalg/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-1dw8otm5xpmwl/s-frcnnfc8zi-17skpmg-3c8yfdvesnalg/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-1dw8otm5xpmwl/s-frcnnfc8zi-17skpmg.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/16bhf2ohnda961yj.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/1d23qhdx90tbsdm4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/1ff5fify8dwouyfs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/1myoa96sc33x5mgg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/1p5216f09wq2uqjv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/34m6azm7ccdgokx8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/3h9lktw0ftymr82t.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/3phpok11eg6gymk8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/3u1vvv821ilbaua5.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/cqhitfo1m2ejmg3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/n6wluitof8qnbdp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/s5j1515x662247v.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i-1qcjj6tt7ar70/z7sj8lkt1nyi7em.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/target/debug/incremental/animal_kind-6eenf9emefa1/s-frcnnfca0b-1kewj0i.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-7b96d93d3e323ab1/dep-lib-animal_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-7b96d93d3e323ab1/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-7b96d93d3e323ab1/lib-animal_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-7b96d93d3e323ab1/lib-animal_derive.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-daf2573a4e2c3b3d/dep-test-lib-animal_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-daf2573a4e2c3b3d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-daf2573a4e2c3b3d/test-lib-animal_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_derive-daf2573a4e2c3b3d/test-lib-animal_derive.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-0cee0eb1f219f13e/dep-test-lib-animal_kind_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-0cee0eb1f219f13e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-0cee0eb1f219f13e/test-lib-animal_kind_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-0cee0eb1f219f13e/test-lib-animal_kind_derive.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-9ed622fc849d5b34/dep-lib-animal_kind_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-9ed622fc849d5b34/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-9ed622fc849d5b34/lib-animal_kind_derive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/animal_kind_derive-9ed622fc849d5b34/lib-animal_kind_derive.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-589788521ba5c372/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-589788521ba5c372/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-589788521ba5c372/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-589788521ba5c372/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-acc3c60980c7e456/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-acc3c60980c7e456/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-c5e0b24d54597a34/dep-lib-proc-macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-c5e0b24d54597a34/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-c5e0b24d54597a34/lib-proc-macro2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/proc-macro2-c5e0b24d54597a34/lib-proc-macro2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/quote-6343615803a9c2ae/dep-lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/quote-6343615803a9c2ae/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/quote-6343615803a9c2ae/lib-quote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/quote-6343615803a9c2ae/lib-quote.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-011a65e0916b5a4e/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-011a65e0916b5a4e/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-2fcf1267ccaaa4d6/dep-lib-syn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-2fcf1267ccaaa4d6/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-2fcf1267ccaaa4d6/lib-syn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-2fcf1267ccaaa4d6/lib-syn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-385ec7f06afc2ad0/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-385ec7f06afc2ad0/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-385ec7f06afc2ad0/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/syn-385ec7f06afc2ad0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/unicode-xid-b13daac5d45350a3/dep-lib-unicode-xid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/unicode-xid-b13daac5d45350a3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/unicode-xid-b13daac5d45350a3/lib-unicode-xid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/.fingerprint/unicode-xid-b13daac5d45350a3/lib-unicode-xid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-589788521ba5c372/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-589788521ba5c372/build_script_build-589788521ba5c372" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-589788521ba5c372/build_script_build-589788521ba5c372.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-acc3c60980c7e456/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-acc3c60980c7e456/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-acc3c60980c7e456/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/proc-macro2-acc3c60980c7e456/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-011a65e0916b5a4e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-011a65e0916b5a4e/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-011a65e0916b5a4e/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-011a65e0916b5a4e/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-385ec7f06afc2ad0/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-385ec7f06afc2ad0/build_script_build-385ec7f06afc2ad0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/build/syn-385ec7f06afc2ad0/build_script_build-385ec7f06afc2ad0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/animal_derive-7b96d93d3e323ab1.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/animal_derive-daf2573a4e2c3b3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/animal_derive-daf2573a4e2c3b3d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/animal_kind_derive-0cee0eb1f219f13e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/animal_kind_derive-0cee0eb1f219f13e.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/animal_kind_derive-9ed622fc849d5b34.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libanimal_derive-7b96d93d3e323ab1.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libanimal_kind_derive-9ed622fc849d5b34.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libproc_macro2-c5e0b24d54597a34.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libproc_macro2-c5e0b24d54597a34.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libquote-6343615803a9c2ae.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libquote-6343615803a9c2ae.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libsyn-2fcf1267ccaaa4d6.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libsyn-2fcf1267ccaaa4d6.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libunicode_xid-b13daac5d45350a3.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/libunicode_xid-b13daac5d45350a3.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/proc_macro2-c5e0b24d54597a34.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/quote-6343615803a9c2ae.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/syn-2fcf1267ccaaa4d6.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/deps/unicode_xid-b13daac5d45350a3.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/1skywye3t4rh9l8f.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/21c5arhqtw5bzvlo.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/2jbls2ne91yophuf.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/2vnlzwp1ecakof5q.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/2x3gbrr8ow21ibsv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/3uso49s92p3ftnp4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/4hhsuux17vvauppf.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/4k38rned38l9dua7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/cph7x7bjn8x5959.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/h6bqis5wrkl6cu3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/i9870jv6t8tfvvb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/wjfycqaj0gxypcd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq-3owappeirldqp/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-1rkr93jrlc4as/s-frcnqg4bul-d4aliq.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1b6kay56be1inxlg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1cptsx8o81cm3lod.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1ibfweeynzxrc18l.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1l655v1iwjjebvh4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1nszpq4zhf1jrnj8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1nxqclp5lrdzuw6q.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1vt8qp370jfg4ptk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/1ztrz1e76pj2yitb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/35kvlcn2jdekphvc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/38qe8zz7vw225jjn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/3h930822p35hdtf8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/3jckxses21xhiuvz.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/3m5vcwqb3c3x6bp3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/3mbuwr7bosf4rx9q.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/42zbqcafzajscukw.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4anayyforz8fms95.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4bl2uf3n7d90p463.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4bozatymoiv5j4a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4gohifjuckl3ew88.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4gx6gu9ij3iohnfm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4kvp5b72h4pfaq78.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4pmtqm2k5m6m806d.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4prsvh1vx8870gmx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4tg9hho69001ptap.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4wprqroy5fypz59b.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/4zpz3z6zlu5vgu61.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/54ess7vwljki4sbt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/5bpx91h5941w6bfk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/5ceaonvaqt2l5vs7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/5dt9e39smfnsm43q.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/5fm85sywohyp6u5w.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/8auhh6qozitgqiv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/dsstcfes40mg02d.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/eq8hhz0juc87taq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/gfm9zzq6xz5lb56.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv-3orvxzumm05um/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_derive-42ox8vuzope9/s-frcnqg4bv7-3dn6qv.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/1srbst5854fptccc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/1u204ucjxhn2bs2y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/2e5q24naf6j8zpl3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/2grwjtmxarrltm77.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/2hz1427z3oorq4ym.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/2l0vd0enzrib5oya.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/36rhx07uzl9x2pmi.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/3gntrhslq3aletho.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/3m4wtc1s1n61ugfd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/4hp4ybxctg09i7od.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/56ppxs4oojt6wm7h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/fi6axz4jugcng8f.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6-2rrph379ultkh/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-16vr71ckobq8i/s-frcno5nzlt-ljcsm6.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/13vs7w6937jr6oiu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/14p254iddv2h420e.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/1791cl2600s7d66l.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/1bwvdi78xbjwa6rw.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/1pr8x6w9aygx4uie.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/1q0s4l654eq5arvl.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/1wrraqix3d40ku7v.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/22eu2qfgq4guch28.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/27hjg1vwf286ip4k.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/2a93u8ywqmfj7ayk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/2f73rp01prd1dhtr.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/2tdwdk6vwg4rs0r3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/2vt47qc106v44o34.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/30z9l4tfj83l5vb3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/3249l7z3ymid7527.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/37ma7yljyw7w16d0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/39york5jc0l2d0ww.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/3fanebgf8pevmhmu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/46wm13380z87nny1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/494o3p29kymbznza.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4algc80sjc3zjz33.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4h2dlmgn1lhg6kug.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4ktiepu6a1wnisrn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4ss92uu68gngxkxg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4ujk1mu4w2rttq5a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4ulcbpj17z6xywxk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/4z65k63rqdxv8wew.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/55zlv1hy4cgykz2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/58b62kg6kza2z99z.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/5dtklsxxqcumyxn6.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/f7uvicws0f60m3d.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/flviahu4duk3jg7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/ox6ay8i4htb4sep.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/sq2dr182s17g6qg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia-ketiv49uq356/yb38v1p8x6q55oa.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_derive/target/debug/incremental/animal_kind_derive-q7x1kkzrlv3c/s-frcno5o0fz-qk1gia.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gpfqze7r" />
+  </component>
+  <component name="ProjectId" id="1hkKXcmrCjr2lsEuWzC6MMHPPSG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package sort_animals --bin sort_animals" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af09420-8181-4a3b-a8f1-19e5332bfee5" name="Default Changelist" comment="" />
+      <created>1600549690983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600549690983</updated>
+      <workItem from="1600549692060" duration="29711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4856" y="452" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1600578393746">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4856" y="452" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/2560.0.3440.1440/0.27.2560.1413@2560.0.3440.1440" timestamp="1600578393746" />
+    <state x="4701" y="351" width="683" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600573290173">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4701" y="351" width="683" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/2560.0.3440.1440/0.27.2560.1413@2560.0.3440.1440" timestamp="1600573290173" />
+    <state x="4711" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1600552937621">
+      <screen x="2560" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4711" y="349" width="672" height="678" key="search.everywhere.popup/2560.0.3440.1440/0.27.2560.1413@2560.0.3440.1440" timestamp="1600552937621" />
+  </component>
+</project>

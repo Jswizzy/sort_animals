@@ -1,0 +1,20 @@
+[
+  {
+    "Dog": {
+      "weight": 17,
+      "color": "white"
+    }
+  },
+  {
+    "Cat": {
+      "weight": 5,
+      "color": "black"
+    }
+  },
+  {
+    "Snake": {
+      "weight": 1,
+      "color": "green"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+/home/jns/CLionProjects/sort_animals/animal_derive/target/debug/deps/proc_macro2-c5e0b24d54597a34.rmeta: /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs
+
+/home/jns/CLionProjects/sort_animals/animal_derive/target/debug/deps/libproc_macro2-c5e0b24d54597a34.rlib: /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs
+
+/home/jns/CLionProjects/sort_animals/animal_derive/target/debug/deps/proc_macro2-c5e0b24d54597a34.d: /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs /home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs
+
+/home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs:
+/home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs:
+/home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs:
+/home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs:
+/home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs:
+/home/jns/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs:

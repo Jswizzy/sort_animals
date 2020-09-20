@@ -1,0 +1,17 @@
+[
+  {
+    "type": "dog",
+    "weight": 17,
+    "color": "white"
+  },
+  {
+    "type": "cat",
+    "weight": 5,
+    "color": "black"
+  },
+  {
+    "type": "snake",
+    "weight": 1,
+    "color": "green"
+  }
+]
